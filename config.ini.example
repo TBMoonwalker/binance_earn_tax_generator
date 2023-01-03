@@ -1,0 +1,10 @@
+[api]
+key = 
+secret = 
+
+[general]
+startdate = 2022.01.01
+token = ALGO, BNB, BTC, BUSD, LTC, MATIC, ROSE
+products = locked, flexible
+taxpercent = 27.5
+currency = EUR

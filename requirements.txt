@@ -1,0 +1,6 @@
+binance==0.3
+binance_connector==1.18.0
+numpy==1.22.3
+pandas==1.4.1
+regex==2022.3.2
+yfinance==0.1.70
